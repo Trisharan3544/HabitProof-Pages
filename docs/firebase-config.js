@@ -1,7 +1,7 @@
 // Replace these placeholders with the Firebase Web App config from Firebase Console.
 // Firebase client configuration is public; never put service account credentials here.
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyDNKDWz7tqkLnQc0j6FrAoJ3nmjOOcrssU",
   authDomain: "gen-lang-client-0798131505.firebaseapp.com",
   databaseURL: "https://gen-lang-client-0798131505-default-rtdb.firebaseio.com",
